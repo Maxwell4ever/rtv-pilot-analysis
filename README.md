@@ -131,6 +131,7 @@ Here are the primary results from the RTV pilot analysis:
 
 ![Food Consuption Score distribution: Baseline VS Endline](output/figures/figure01_fcs_distribution.png)
 ![Pilot Effect Estimates...Difference in Disfference](output/figures/figure02_did_estimates.png)
+![FCS tracjectories by HH type and Treatment Status](output/figures/figure03_subgroup_trajectories.png)
 ---
 ## Reproducibility
 
