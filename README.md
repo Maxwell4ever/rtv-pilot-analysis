@@ -1,7 +1,7 @@
 # RTV Isingiro Productive Asset Transfer Pilot — Evaluation Analysis
 
 **Analyst:** Maxwell Joseph Ochora  
-**Organisation:** Raising The Village — VENN Department, Pilots and Innovation Unit  
+**Organisation:** Pulsegate Solutions — Research Lead, Pilots and Innovation Project  
 **Pilot period:** October 2023 to April 2024  
 **Geography:** Isingiro District, Uganda (20 villages: 12 pilot, 8 comparison)  
 **Date:** June 2026
@@ -159,6 +159,6 @@ Variable definitions are in `data/metadata/data_dictionary.xlsx`.
 
 ## Contact
 
-Maxwell Joseph Ochora | Data Analyst, Pilots and Innovation  
-VENN Department | Raising The Village  
+Maxwell Joseph Ochora | Data Analyst, Pilots and Innovation  Project
+maxwell.ochora@gmail.com | Pulsegate Solutions  | +256773992662
 Analysis code and questions: raise an issue in this repository.
