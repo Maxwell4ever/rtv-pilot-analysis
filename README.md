@@ -125,7 +125,13 @@ Female-headed households gained +10.9 pts FCS versus +7.0 pts for
 male-headed households. All subgroup findings survive BH correction.
 
 ---
+### Key Findings
 
+Here are the primary results from the RTV pilot analysis:
+
+![Food Consuption Score distribution: Baseline VS Endline](output/figures/figure01_fcs_distribution.png)
+![Pilot Effect Estimates...Difference in Disfference](output/figures/figure02_did_estimates.png)
+---
 ## Reproducibility
 
 This project uses `renv` for package management.
